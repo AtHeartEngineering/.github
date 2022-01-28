@@ -1,6 +1,10 @@
 ## AtHeart.Engineer(ing)
 #### 🌐[AtHeart.Engineering](https://atheart.engineering)
 
-🙋‍♀️ This is where I keep my paid / professional / public / opensource work. 
-🌈 Contribution guidelines - Open to critism and free labor
-🧙 Secretly I want to be a wizard
+🙋‍♀️ This is where I keep my paid / professional / public / opensource work.
+
+🌈 Open to critism and free labor. 
+
+💰 All sponsored work will be disclosed by project. I'll never *shill*.
+
+🧙 *Secretly I want to be a wizard*
